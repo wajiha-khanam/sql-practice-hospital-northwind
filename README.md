@@ -7,7 +7,7 @@ Welcome to my curated repository of SQL solutions based on challenges from [SQLP
 | Dataset        | Progress       | Description                                  |
 |----------------|----------------|----------------------------------------------|
 | 🏥 hospital.db  | ✅ Completed    | Queries on patients, admissions, and doctors |
-| 🌍 northwind.db | ⏳ In Progress | Classic business use-case — coming soon!     |
+| 🌍 northwind.db | ✅ Completed | Classic business use-case — orders, products and customers |
 
 ## 🧠 Skills Demonstrated
 
@@ -23,7 +23,7 @@ Welcome to my curated repository of SQL solutions based on challenges from [SQLP
 This dataset simulates data from a healthcare environment, featuring tables such as patients, admissions, diagnoses, and staff. All SQL questions related to this database have been completed, with queries structured to draw actionable insights and patterns from real-world scenarios.
 
 ### 🌍 northwind.db  
-An industry-favorite dataset representing a trading company’s operations. With tables covering products, orders, customers, and employees, this dataset will be tackled next as part of the ongoing learning process.
+A classic business dataset representing a trading company’s operations, including tables like products, orders, customers, and employees. All SQL questions related to this database have been completed, with queries designed to analyze business metrics and operational performance.
 
 
 
