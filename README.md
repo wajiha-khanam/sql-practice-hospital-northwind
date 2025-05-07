@@ -4,10 +4,11 @@ Welcome to my curated repository of SQL solutions based on challenges from [SQLP
 
 ## ✅ Dataset Completion Status
 
-| Dataset        | Progress       | Description                                  |
-|----------------|----------------|----------------------------------------------|
-| 🏥 hospital.db  | ✅ Completed    | Queries on patients, admissions, and doctors |
-| 🌍 northwind.db | ✅ Completed | Classic business use-case — orders, products and customers |
+| Dataset        | Progress    | Description                                   | Solutions                                   |
+|---------------|------------|-----------------------------------------------|---------------------------------------------|
+| 🏥 hospital.db | ✅ Completed | Queries on patients, admissions, and doctors   | [Hospital SQL Solutions](https://github.com/wajiha-khanam/sql-practice-hospital-northwind/blob/main/hospital_db.sql)               |
+| 🌍 northwind.db| ✅ Completed | Classic business use-case — orders and products| [Northwind SQL Solutions](https://github.com/wajiha-khanam/sql-practice-hospital-northwind/blob/main/northwind_db.sql)              |
+
 
 ## 🧠 Skills Demonstrated
 
